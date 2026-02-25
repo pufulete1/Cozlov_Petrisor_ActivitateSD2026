@@ -7,4 +7,5 @@ int main() {
 	scanf_s("%d", &variabila);
 	printf("Ai introdus: %d", variabila);
 	return 0;
+	//Citirea unei variabile reale
 }
